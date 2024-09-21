@@ -15,7 +15,7 @@ The following minimum hardware specifications are recommended for running a Cele
 
 1. **Clone the repository** and navigate to the project folder:
    ```bash
-   git clone https://github.com/0xHawre/celestia-light-node.git
+   git clone https://github.com/mohammadhlm/celestia-light-node.git
    cd  celestia-light-node
    ```
 
