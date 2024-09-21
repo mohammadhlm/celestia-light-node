@@ -22,7 +22,7 @@ git checkout tags/v0.16.0
 make build
 make install
 make cel-key
-celestia light init
+celestia light init --p2p.network celestia
 
 echo "Installation complete!"
 celestia version
