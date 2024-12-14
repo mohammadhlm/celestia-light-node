@@ -22,6 +22,7 @@ git checkout tags/v0.20.4
 make build
 make install
 make cel-key
+./cel-key add cel1 --recover --keyring-backend test --node.type light
 celestia light init --p2p.network celestia
 
 echo "Installation complete!"
